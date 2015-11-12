@@ -1,0 +1,5 @@
+DataSpyre Tutorial
+
+In this repo I attached the ipython notebook and all scripts and data used during my talk on 11/11/15 at the Kansas City Data Science Meetup. The talk focuses on how to build a data spyre webapp in python, and how to integrate some interactive libraries, specifically Bokeh and Pygal.
+
+
